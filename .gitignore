@@ -12,6 +12,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Virtual environments
-.venv
-venv 
-cse404venv
+.venv/
+venv/
+cse404venv/
